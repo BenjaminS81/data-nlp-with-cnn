@@ -8,4 +8,4 @@ If you run this simulation in eg. VS code, make sure to have all the latest tens
 
 The simulation is highly guided step-by-step to explain what happens for each code block. If you are running into any issues, please contact me directly.
 
-
+To start, download all files from the repo open the jupyter notebook and execute cell by cell to run the simulation. Have fun learning!
